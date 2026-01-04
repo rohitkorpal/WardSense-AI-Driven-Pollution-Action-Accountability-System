@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WW-PAD: Ward-Wise Pollution Action Dashboard",
+  "description": "An AI-powered, ward-level pollution intelligence platform enabling data-driven governance and citizen awareness through real-time monitoring and actionable insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
