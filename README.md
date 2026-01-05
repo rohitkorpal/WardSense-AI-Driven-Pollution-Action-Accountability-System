@@ -1,5 +1,7 @@
 <img width="1900" height="948" alt="image" src="https://github.com/user-attachments/assets/c9d5a8e2-f084-4e24-81ed-02e3eaac1bab" />
 
+# Check my app here- https://ai.studio/apps/drive/15D1swWo2IlYxhoAyo355Q6w9TtUi3gOp?fullscreenApplet=true
+
 # WardSense – AI-Driven Pollution Action & Accountability System
 
 WardSense is a **ward-wise air quality intelligence and decision-support platform** designed to move beyond traditional AQI dashboards.  
